@@ -12,10 +12,7 @@ Hi I am Kai or you can also call me Iris, and I'm a trans female (MTF) and I lov
 ```
 ### Project's
 <details>
-<summery>Click me if you are interested to see my projects</summery>
-  <pre>
-:3 Thanks for being interested
-  </pre>
+<summary>Click me if you are interested to see my projects</summary>
+  <pre>:3 Thanks for looking!</pre>
   Currently working on: https://www.kaiurl.xyz.
   Also I am working on my own private website which is called https://dev.kaiurl.xyz (still in a huge work in progress)
-  </details>
