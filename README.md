@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://kaiurl.xyz/image.png" width="200">
+<img src="https://kaiurl.xyz/logo.ico" width="200">
 </div>
 
 # About me
