@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://kaiurl.xyz/logo.ico" width="200">
+<img src="https://www.kaiurl.xyz/logo.ico" width="200">
 </div>
 
 # About me
@@ -10,9 +10,3 @@ I also am the founder of Myst, which currently consist of Pimz and I. More about
 - He/Him
 + She/Her
 ```
-### Project's
-<details>
-<summary>Click me if you are interested to see my projects</summary>
-  <pre>:3 Thanks for looking!</pre>
-  Currently working on: https://www.kaiurl.xyz.
-  Also I am working on my own private website which is called https://dev.kaiurl.xyz (still in a huge work in progress)
